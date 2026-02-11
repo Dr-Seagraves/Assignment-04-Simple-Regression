@@ -86,19 +86,7 @@ By using only one predictor at a time, we might be omitting:
 
 ---
 
-## 7. Lit-Anchor Citation (Required for Weeks 4–15)
-
-**Academic Reference:**
-- [Author(s)], [Year]. "[Paper Title]." *[Journal Name]* (optional).
-
-**How it relates to your finding:**
-- [1-2 sentences: Does this paper support or contradict your results on dividend yield, interest rates, or FFO/Assets? What context does it provide?]
-
-**Note:** You must include at least one citation from the Orbis academic database. Use the Orbis MCP tool or search manually at [Orbis](https://orbis.org) or your university library.
-
----
-
-## 8. Summary and Next Steps
+## 7. Summary and Next Steps
 
 **Key Takeaway:**
 [2-3 sentences summarizing which predictor(s) show the strongest relationship with REIT annual returns and whether the evidence is consistent with economic theory]
